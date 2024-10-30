@@ -16,3 +16,4 @@ the "Deliver" stage of your Pipeline.
 maven jenkins
 jenkins maven
 maven jenkins
+jenkins maven
